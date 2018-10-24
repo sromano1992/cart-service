@@ -12,4 +12,5 @@ public class CartItem {
     private String customer;
     private String product;
     private int quantity;
+
 }
