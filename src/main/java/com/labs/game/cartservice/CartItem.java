@@ -12,4 +12,11 @@ public class CartItem {
     private String customer;
     private String product;
     private int quantity;
+
+    public CartItem(int i, String s, String aaa, int i1) {
+        this.id = i;
+        this.customer = s;
+        this.product = aaa;
+        this.quantity = i1;
+    }
 }
