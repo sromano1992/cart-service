@@ -5,7 +5,8 @@
 
 	<groupId>com.labs.game</groupId>
 	<artifactId>cart-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<!-- <version>0.0.1-SNAPSHOT</version> this is the one to remove -->
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>cart-service</name>
